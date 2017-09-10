@@ -8,6 +8,17 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts"/>
+  <objects name="objects">
+    <objects name="Cesar">
+      <object>objects\obj_test</object>
+    </objects>
+  </objects>
+  <rooms name="rooms">
+    <rooms name="Cesar">
+      <room>rooms\rm_test</room>
+    </rooms>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
