@@ -8,7 +8,6 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <objects name="objects">
     <objects name="Cesar">
       <object>objects\obj_test</object>
