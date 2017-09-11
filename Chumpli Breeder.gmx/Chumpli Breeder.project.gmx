@@ -15,13 +15,6 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-<<<<<<< HEAD
-  <objects name="objects">
-    <object>objects\obj_test</object>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\rm_test</room>
-=======
   <scripts name="scripts">
     <scripts name="Cesar">
       <script>scripts\scr_cesar_test.gml</script>
@@ -45,7 +38,6 @@
     <rooms name="Cesar">
       <room>rooms\rm_test</room>
     </rooms>
->>>>>>> master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
