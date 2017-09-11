@@ -15,6 +15,8 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+<<<<<<< HEAD
+=======
   <scripts name="scripts">
     <scripts name="Cesar">
       <script>scripts\scr_cesar_test.gml</script>
@@ -23,6 +25,7 @@
       <script>scripts\scr_alex_test.gml</script>
     </scripts>
   </scripts>
+>>>>>>> master
   <objects name="objects">
     <objects name="Cesar">
       <object>objects\obj_cesar_test</object>
